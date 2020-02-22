@@ -17,3 +17,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/jeffniv/shinyAppNiv
+BugReports: https://github.com/jeffniv/shinyAppNiv/issues
