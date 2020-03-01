@@ -1,15 +1,9 @@
----
-title: "shinyAppNiv"
-author: "Jeff Nivitanont"
-date: '2020-02-29'
-output: 
-    rmarkdown::github_document:
-        toc: true
-vignette: >
-  %\VignetteIndexEntry{shinyAppNiv}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
+# shinyAppNiv
+## by: Jeff Nivitanont
+updated 2-22-2020
+
+
+
 
 
 
